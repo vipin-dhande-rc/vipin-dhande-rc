@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vipin-dhande-rc)](https://git.io/streak-stats)
 
- 💬 Ask me about Rentals / Scheduled Rentals / Payments / Deployments and many more...
+ 💬 Ask me about Rentals / Scheduled Rentals / Payments / Deployments / On-Call and much more 😉...
 <!--
 **vipin-dhande-rc/vipin-dhande-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
